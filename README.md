@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Calculadora de Préstamos - Caja de Ahorro</title>
+<title>Calculadora de Préstamos </title>
 <style>
 /* Estilos generales */
 * {margin: 0; padding: 0; box-sizing: border-box;}
