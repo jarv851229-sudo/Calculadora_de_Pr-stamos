@@ -48,7 +48,7 @@ select:focus, input:focus {outline: none; border-color: #4caf50; box-shadow: 0 0
     font-size: 1.1em;
     text-align: center;
     transition: all 0.1s ease;
-    animation: vibrate 0.3s infinite;
+    animation: vibrate 0.2s infinite;
 }
 
 /* Animación vibración */
@@ -68,7 +68,7 @@ select:focus, input:focus {outline: none; border-color: #4caf50; box-shadow: 0 0
 <body>
 <div class="container">
     <div class="header">
-        <>
+        
         <h1>Calculadora de Préstamos</h1>
         <p>Caja de Ahorro</p>
     </div>
